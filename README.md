@@ -8,11 +8,9 @@ We have worked on large data sets and results will lead school border to get per
 
 ![Results](https://user-images.githubusercontent.com/85411967/134785260-3ab42d6f-31b0-4b4b-94ec-05bd15f70980.png)
 
+The table as shown in the below is the final results for 15 High Schools. It’s including all results that we analyze from data frame. This data frame and the results will change properly every year depends on the student success, budget and the percentage of the results.
 
-
-
-
-
+![Final Results for Thomas School](https://user-images.githubusercontent.com/85411967/134785679-98cd24c8-0486-4e32-b7a4-bf9319db973e.png)
 
 There is Final result for ThomasThomas High School;
 ![Final Results for Thomas School](https://user-images.githubusercontent.com/85411967/134785520-b80d408d-7691-4121-93df-477bd6485976.png)
