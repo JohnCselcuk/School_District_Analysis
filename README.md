@@ -13,6 +13,7 @@ The table as shown in the below is the final results for 15 High Schools. It’s
 ![Final Table](https://user-images.githubusercontent.com/85411967/134785683-e79e4833-42be-4807-a6dd-649f6dc50386.png)
 
 There is Final result for Thomas High School;
+
 ![Final Results for Thomas School](https://user-images.githubusercontent.com/85411967/134785520-b80d408d-7691-4121-93df-477bd6485976.png)
 
 
