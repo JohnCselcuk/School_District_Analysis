@@ -31,3 +31,7 @@ The table as shown in the below is the final results for 15 High Schools. It’s
 
 ## Summary
 The four major changes that occurred is the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School.The removing unsucced students from data frame that will change total students at Thomas High School, specifically for this analysis.This will tell us a change in average scores and score percentages. I can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
+
+Thank you for your time
+
+-John
