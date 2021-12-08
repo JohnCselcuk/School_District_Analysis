@@ -5,7 +5,6 @@ This analysis was created to get 15 different high school results by following e
 
 ## Results
 - We used Jupyter Notebook,Pandas and Python 3.7.6 to complete this analysis.
-- We used Jupyter Notebook, Pandas and Python 3.7.6 to complete this analysis.
 - We have converted the ".csv" files to a data frame.
 - Next step we clean at least one dataset and checked missing or incorrect data and remove them
 - We determine Data types to check if the numbers in these datasets are the correct data type for making analysis
