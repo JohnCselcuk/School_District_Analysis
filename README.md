@@ -1,7 +1,7 @@
 # School_District_Analysis
 Click this Click to access files: https://github.com/JohnCselcuk/School_District_Analysis
 ## Overview of Analysis
-This analysis was created to get 15 different high school results by following each criterion: Student ID, student name, gender, grade, school name, reading score, math score, type size, budget, average and percentage. After finding the results, we replace the data for the 9th graders at Thomas High School while keeping the rest of the data intact and perform the same analysis we did in our module. This data I have generated will have a big impact on how the schoolboard plans for the upcoming academic year.
+This analysis was created to get 15 different high school results by following each criterion: Student ID, student name, gender, grade, school name, reading score, math score, type size, budget, average and percentage. After finding the results, we replaced the data for the 9th graders at Thomas High School while keeping the rest of the data intact and performing the same analysis we did in our module. This data I have generated will have a big impact on how the schoolboard plans for the upcoming academic year.
 
 ## Results
 - We used Jupyter Notebook,Pandas and Python 3.7.6 to complete this analysis.
@@ -26,7 +26,7 @@ The table as shown in the below is the final results for 15 High Schools. It’s
 ![Final Results for Thomas School](https://user-images.githubusercontent.com/85411967/134785520-b80d408d-7691-4121-93df-477bd6485976.png)
 
 ## Summary
-The four major changes that occurred is the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School.The removing unsucced students from data frame that will change total students at Thomas High School, specifically for this analysis.This will tell us a change in average scores and score percentages. I can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagine it to be.
+The four major changes that occurred are the number of total students, the number of students counted at Thomas High School, the average math and reading scores, and the overall percentages for math and reading at Thomas High School.The removing unsucced students from data frame that will change total students at Thomas High School, specifically for this analysis.This will tell us a change in average scores and score percentages. I can assume that the removal of math and reading scores of 9th graders at Thomas High School not as significant as we would imagined it to be.
 
 Thank you for your time
 
